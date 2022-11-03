@@ -1,9 +1,147 @@
-- presenter: Xuexing Du
-  date: 2022-08-26 10:00:00
+- presenter: Zhenyuan Jin
+  date: 2022-11-11 13:00:00
   paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Zheng Wang
+  date: 2022-11-09 14:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Boran Yang
+  date: 2022-11-04 13:00:00
+  paper: TBD
+  url: 
+  pdf: 
+  authors: 
+  slides: 
+
+- presenter: Jingyang Ma
+  date: 2022-11-02 14:00:00
+  paper: A synaptic learning rule for exploiting nonlinear dendritic computation
+  url: https://doi.org/10.1016/j.neuron.2021.09.044
+  pdf: https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627320X00250/1-s2.0-S0896627321007170/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjECUaCXVzLWVhc3QtMSJGMEQCIGMY2xe2MXtLDfe85JyCpGOn1gqVCUV126ustuAXPVU2AiBeIn%2B1Q9Z7AVqFowNccRekj7nqPz%2F%2B%2B3KHoRIoeuhLFirVBAj%2B%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMp0DqOWr9O6Uk5FRHKqkEreyirOUka98LeQFzdC9StZ%2FTw2fcK5Fni5YmTFi5T%2F2XWNL5chAZNRTykCLH8Sn6xz1OIBe1A%2F9mHVAu%2BArOmymeUQn1tGgl75WM1Gvq8tLNtpbjs2Bx0YMQgrlR9yl16TQFi8atAqnjGn0yMvnrPy5RBTuTGmstsVLgMbFJHElIzyb9w2fYw7Nw5eHDbjx17vE0nFzhzCTuekXvRagEb5wFlIN00DZfUNayLqhljLeinWC4J7A7oUL9z6TlpNShxp916hHomCkZRGc4oK6XTyWF%2BIGpc%2BGYnLEzvFV1VBFS5NM9zxk9YJvMMGEpqRjk9aaZ0QHfleOjRm15mbOdR%2B%2F5SF0tB5Lz92Os4IG9slOEAI3t9HprGglwAFMsuu0ahSAvfLp45Oh47RqjtQ3XWsBa5WyDSXVT6pPbNrVbrHmpouxw7QUKnTn6wr4VaCjZ%2Bzjr6%2BH8dKsy6%2F4aUCNVZaEJr2MN%2FxgWuKJeOoviyex%2FU1dlF1olUqYNmdtS2k2s3XLzDuaPHkSKxVqPWEXoxrxbiInrZIwuj0px7sYQUFvrtm%2B6nnVTM8oFbnz9Tf6yVMe8BqvRz%2BH9LYD7NrP%2Bepz1bzmLQNZVhwH%2BIqeFxTQyGqfvgwDQ5bom3xyTChhJK97PuhN8yotti99xLv0SqbT3LCA%2FsR79F0%2Fdpmv46b0U4799JJn2JsoyACkcN7RBKxzCqQ%2FwOvgY7g8TpWDlYjfW10rYE0AASzDnnuiaBjqqATbZ6dZhq88Bod%2FBsnYFyhI9n5J4WkvV0zME6mHmlf%2BeDcGnbZaq%2BXhbL8zl%2BOzOFan3EmbvV6i7Ib9xC6DQ4JW7Ukky1%2FvVHsCj%2FEWJdKTyhGWGuhyW6IKWeFMs5w3UW1Qj%2BDoO9KOZlKdBJnOLJ2HvLdUK1%2FSv1MLLdcep%2F4NBm2pqPXmRNjte%2BlUQGpmbl48TukcJTHvYuQdqaAJKx1Ok7ZsI%2FpiUwdqk&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221027T052923Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY37Y2Y5XN%2F20221027%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=a2057a60dc3e3fefdd8a17927983df523aaa2e2388cd1a4ba3ab82ec8fd3275d&hash=1a433489c695f2163d16bb151b3f5af3e328e433add146c443650a47e95d5abb&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0896627321007170&tid=spdf-af0dbe8b-f2fd-4c3f-9e48-f4d8dadee2aa&sid=394a43ac3b7fb2463b49b23-de9a79abd99dgxrqb&type=client&ua=515555585e570456000a&rr=760908a1cdf8d011
+  authors: Brendan A. Bicknell, Michael Ha€usser 
+  slides: 
+
+- presenter: Chongming Liu
+  date: 2022-10-26 10:00:00
+  paper: Learning Overparameterized Neural Networks via Stochastic Gradient Descent on Structured Data
+  url: https://proceedings.neurips.cc/paper/2018/hash/54fe976ba170c19ebae453679b362263-Abstract.html
+  pdf: https://proceedings.neurips.cc/paper/2018/file/54fe976ba170c19ebae453679b362263-Paper.pdf
+  authors: Yuanzhi Li, Yingyu Liang
+  slides: 
+
+- presenter: Mingzhang Wang
+  date: 2022-10-19 10:00:00
+  paper: Effects of Altered Excitation-Inhibition Balance on Decision Making in a Cortical Circuit Model
+  url: https://www.jneurosci.org/content/42/6/1035.abstract
+  pdf: https://www.jneurosci.org/content/jneuro/42/6/1035.full.pdf
+  authors: Norman H. Lam, Thiago Borduqui, Jaime Hallak, Antonio Roque, Alan Anticevic, John H. Krystal, Xiao-Jing Wang, John D. Murray 
+  slides: 
+
+- presenter: Xuexing Du
+  date: 2022-10-14 10:00:00
+  paper: How do neurons increase their robustness to noise perturbations
+  url:
+  pdf: 
+    - https://www.jneurosci.org/content/jneuro/21/14/5229.full.pdf
+    - https://pdf.sciencedirectassets.com/272195/1-s2.0-S0896627314X00103/1-s2.0-S089662731400292X/mainext.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjENL%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIEBwMbQC6E7UlrrhOqhSML3ysE2jP03qRl5EFAWS9gF9AiBssweHRn8V8RxhP4V9fa7xkquDJbn%2BOqS0qOw1X7VpFyrVBAib%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIM%2Frd1irv%2BRMdDehRCKqkEo5cGeTycm2XXmhjDbGqwy5jP4jNdAHt4vIr5eFXLG9CGNjenT92918mOGBkQNH21fP%2B%2B9EFzBhSICOQAJbTlkYzfTEexoalp0Vl7qH8I3Sbq1Uiv5WEXeYdsj5CPtfd2QyAPMuhP%2BOTIC6VhjFB4JNIfOovWksq%2F2E1FN7VyHGjMOw2EnahKOD9ljDCTL24Fa9%2BKA7jJYOHnAfD8ive1bsSECW0QXG4WLTJvisVbZQ7Ful%2BwBDj8PwR2qXeO8T4JlQShuNR8HuX7nPZL5UHP6dEsmEqncRreW5wEK37BC%2BQWVHPBqwS%2BGuhJ%2B4A7%2BR4Bj2475HBshKiXYz4JpLbr77jpe1zZxK8VO%2B5DPu%2BHoQw%2B53TUgWxBWxt56TOB3bE4z%2FIqCQZaOq8wMnZKROcHlARLNm9b6JTDVnOCJl%2BhWblzyM%2FHnlKH70cICuFRRQ05BROnMoqFgR0iEg%2FtDLVu1Y%2BpAE3TEy6wh3Y81StEjvHPQh5jeMYex6LYBHF0YRMg1Qw9HCh93pqmsEA4nSEO%2Bvn7v8zBRI11sYYOHSB5Q1frla1ajYcHz0ZpQzWcJ8TtaxLX1GvnhxTCfoNiaRfuZPLNJ6kBQX%2Bs1G2PENP5ueAzeC1Y9zaensAiB2aX9K19kTt%2BH295HYA%2Fxa0BGV6pBS1n3McTof3A9UD5iba710UrW0%2FLwEvMMrIs3QZDQ%2BOxJDM4EXGpDmkamgMSiAXIQfz2mRFsqxmXODDa152aBjqqATNDf1k7JEMHovT4zkxF0K9oZUrWgVhQTYTWC8RTMpmUZQuQbp%2FqDPeRmdholUYa4%2BN%2FFslTELl8jezAhPRcn06aDXypf46VeuVEjuEvXnwjcRM8%2FzVoPnrCotH0UIzIMEHz%2BhjkweDcnXPZxzRaZqKlyXQm4AZVuKyYZ408N0%2FEOLiixavLhwoUQ1OTmulTkBKJYASO8iOBymOnEbtmgYYbIoGfyWLSRAGC&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20221013T024248Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY75VBKK57%2F20221013%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b1e4cae64ea5bfe853b79da2b4f5ab9e46d29a852b78ba2b57430a37b46843fd&hash=7536c0539596fb9fcf8a87cc6db40d8bdcce5b21a35c5e72ee0d4ba767133581&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S089662731400292X&tid=spdf-62427d49-dff0-4c2d-97b7-46680f1bdf86&sid=c52dbf864ce7774ca298b5a837f687e9be6dgxrqb&type=client&ua=57515854075d575c&rr=7594b9598eafbbc2
+  authors: Multiple papers
+  slides: 
+
+- presenter: Kai Chen
+  date: 2022-10-21 13:00:00
+  paper: Gradient-based learning drives robust representations in recurrent neural networks by balancing compression and expansion
+  url: https://www.nature.com/articles/s42256-022-00498-0
+  pdf: https://www.google.com/url?q=https%3A%2F%2Frdcu.be%2FcQbnb&sa=D&sntz=1&usg=AOvVaw1-Ne1I6wXNLzGCEWn1YFK-
+  authors: Matthew Farrell, Stefano Recanatesi, Timothy Moore, Guillaume Lajoie, Eric Shea-Brown
+  slides: https://202.120.13.81:10003/d/f/qs567oVJEzoqKKxssTTQIcu52Pubi29d
+
+- presenter: Bo Wang
+  date: 2022-10-07 10:30:00
+  paper: The techniques of Noise Injection for neural network training
   url:
   pdf:
-  authors:
+  authors: Multiple papers 
+  slides: 
+
+- presenter: Zhenyuan Jin
+  date: 2022-10-04 10:00:00
+  paper: Phase Diagram for Two-layer ReLU Neural Networks at Infinite-width Limit
+  url: https://www.jmlr.org/papers/v22/20-1123.html
+  pdf: https://www.jmlr.org/papers/volume22/20-1123/20-1123.pdf
+  authors: Tao Luo, Zhi-Qin John Xu, Zheng Ma, Yaoyu Zhang
+  slides: https://202.120.13.81:10003/d/f/qdwA9YegQKlWTB2lfMm2oJnCm9Z13iNu
+
+- presenter: Ziling Wang
+  date: 2022-10-12 10:00:00
+  paper: Sequential and efficient neural-population coding of complex task information
+  url: https://www.sciencedirect.com/science/article/pii/S0896627321008357
+  pdf: https://www.sciencedirect.com/science/article/pii/S0896627321008357/pdfft?md5=80e5092d41f5fefcff8681a86927ca08&pid=1-s2.0-S0896627321008357-main.pdf
+  authors: Sue Ann Koay, Adam S.Charles, Stephan Y.Thiberge, Carlos D.Brody, David W.Tank
+  slides: 
+
+- presenter: Jingcheng Shi
+  date: 2022-09-28 14:00:00
+  paper: Meta-learning synaptic plasticity and memory addressing for continual familiarity detection
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0896627321009478
+  pdf: https://www.sciencedirect.com/science/article/pii/S0896627321009478/pdfft?md5=cf8c6411157dc9f81bb513cb60646d08&pid=1-s2.0-S0896627321009478-main.pdf
+  authors: Danil Tyulmankov, Guangyu Robert Yang, L.F. Abbott
+  slides: 
+
+- presenter: Zheng Wang
+  date: 2022-09-23 13:00:00
+  paper: Backpropagation algorithms and Reservoir Computing in Recurrent Neural Networks for the forecasting of complex spatiotemporal dynamics
+  url: https://www.sciencedirect.com/science/article/pii/S0893608020300708
+  pdf: https://www.sciencedirect.com/science/article/pii/S0893608020300708/pdfft?md5=2eabc7debccdc52862cbbd8627386e18&pid=1-s2.0-S0893608020300708-main.pdf
+  authors: P.R. Vlachas, J. Pathak, B.R. Hunt, T.P. Sapsis, M. Girvan, E. Ott, P. Koumoutsakos
+  slides: 
+
+- presenter: Boran Yang
+  date: 2022-09-21 14:00:00
+  paper: Computational Modeling of EEG and fMRI Paradigms Indicates a Consistent Loss of Pyramidal Cell Synaptic Gain in Schizophrenia
+  url: https://discovery.ucl.ac.uk/id/eprint/10133217/
+  pdf: https://discovery.ucl.ac.uk/id/eprint/10133217/1/1-s2.0-S0006322321014992-main.pdf
+  authors: Rick A Adams, Dimitris Pinotsis, Konstantinos Tsirlis, Leonhardt Unruh, Aashna Mahajan, Ana Montero Horas, Laura Convertino, Ann Summerfelt, Hemalatha Sampath, Xiaoming Michael Du, Peter Kochunov, Jie Lisa Ji, Grega Repovs, John D Murray, Karl J Friston, L Elliot Hong, Alan Anticevic 
+  slides: 
+
+- presenter: Chongming Liu
+  date: 2022-09-16 13:00:00
+  paper: Neural network models of decision making
+  url:
+  pdf:
+  authors: 
+  slides: 
+
+- presenter: Kai Chen
+  date: 2022-09-14 14:00:00
+  paper: Emergent reliability in sensory cortical coding and inter-area communication
+  url: https://www.nature.com/articles/s41586-022-04724-y#peer-review
+  pdf: https://www.nature.com/articles/s41586-022-04724-y.pdf
+  authors: Sadegh Ebrahimi, Jérôme Lecoq, Oleg Rumyantsev, Tugce Tasci, Yanping Zhang, Cristina Irimia, Jane Li, Surya Ganguli, Mark J. Schnitzer
+  slides: https://202.120.13.81:10003/d/f/qLLBkNoUGOY0YQpueyREdyycCUJmYOaa
+
+- presenter: Zhenyuan Jin
+  date: 2022-09-09 10:00:00
+  paper: Microscopic theory of intrinsic timescales in spiking neural networks
+  url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043077
+  pdf: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.3.043077
+  authors: Alexander van Meegen, Sacha J. van Albada
+  slides:
+
+- presenter: Xuexing Du
+  date: 2022-08-26 10:00:00
+  paper: "OpenWorm: overview and recent advances in integrative biological simulation of Caenorhabditis elegans"
+  url: https://royalsocietypublishing.org/doi/full/10.1098/rstb.2017.0382
+  pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2017.0382
+  authors: Gopal P. Sarma, Chee Wai Lee, Tom Portegys, Vahid Ghayoomie, Travis Jacobs, Bradly Alicea, Matteo Cantarelli, Michael Currie, Richard C. Gerkin, Shane Gingell, Padraig Gleeson, Richard Gordon, Ramin M. Hasani, Giovanni Idili, Sergey Khayrulin, David Lung, Andrey Palyanov, Mark Watts, Stephen D. Larson
   slides:
 
 - presenter: Jingyang Ma
@@ -47,19 +185,11 @@
   slides:
 
 - presenter: Mingzhang Wang
-  date: 2022-09-02 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
-  slides:
-
-- presenter: Rong Chen
   date: 2022-08-30 10:00:00
-  paper: TBD
-  url:
-  pdf:
-  authors:
+  paper: Excitatory-inhibitory balance modulates the formation and dynamics of neuronal assemblies in cortical networks
+  url: https://www.science.org/doi/full/10.1126/sciadv.abg8411
+  pdf: https://www.science.org/doi/reader/10.1126/sciadv.abg8411
+  authors: Sadra Sadeh, Claudia Clopath
   slides:
 
 - presenter: Chongming Liu
